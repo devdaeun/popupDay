@@ -169,6 +169,13 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+build.gradle
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
+.gitattributes
+
 # My Security File
 
 static/js
